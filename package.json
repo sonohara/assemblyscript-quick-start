@@ -1,0 +1,25 @@
+{
+  "name": "assemblyscript-quick-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonohara/assemblyscript-quick-start.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonohara/assemblyscript-quick-start/issues"
+  },
+  "homepage": "https://github.com/sonohara/assemblyscript-quick-start#readme",
+  "dependencies": {
+    "@assemblyscript/loader": "^0.18.31"
+  },
+  "devDependencies": {
+    "assemblyscript": "^0.18.31"
+  }
+}
